@@ -1,0 +1,17 @@
+{
+  "name": "invbit-tools",
+  "description": "Herramientas internas de Invbit para Claude Code",
+  "owner": {
+    "name": "Martín Miranda",
+    "email": "desarrollo@invbit.com",
+    "url": "https://github.com/miranda90"
+  },
+  "plugins": [
+    {
+      "name": "betheme-ssh",
+      "source": "./",
+      "description": "Documentación y scripts para administrar BeTheme por SSH sin pasar por wp-admin",
+      "version": "1.0.0"
+    }
+  ]
+}

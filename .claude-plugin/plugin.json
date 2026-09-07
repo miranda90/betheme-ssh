@@ -1,0 +1,14 @@
+{
+  "name": "betheme-ssh",
+  "displayName": "BeTheme SSH Toolkit",
+  "version": "1.0.0",
+  "description": "Documentación y scripts wp-cli para administrar Theme Options, logos, fuentes, packs de iconos, Header/Footer Builder, Tools y todo el panel de BeTheme por SSH, sin pasar por wp-admin.",
+  "author": {
+    "name": "Martín Miranda",
+    "email": "desarrollo@invbit.com"
+  },
+  "homepage": "https://github.com/miranda90/betheme-ssh",
+  "repository": "https://github.com/miranda90/betheme-ssh",
+  "keywords": ["betheme", "wordpress", "wp-cli", "ssh", "muffin-group", "temini"],
+  "skills": "./skills/"
+}
